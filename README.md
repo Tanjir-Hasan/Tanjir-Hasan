@@ -2,7 +2,7 @@
 </div>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Tanjir</h1>  
-<h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
 <br>
 
