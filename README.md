@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/RySv555/wallpapersden-com-programming-8k-cool-1921x1081.jpg" alt="cover" />
+<img width="100%" src="https://i.ibb.co/0q0brVV/wallpapersden-com-programming-8k-cool-1921x1081.jpg" alt="cover" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanjir-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="tanjir-hasan" /> </p>
 
