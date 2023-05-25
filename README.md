@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<img width="100%" src="https://i.ibb.co/4J55dwC/79902-to-readme-github.gif" alt="cover" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanjir-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="tanjir-hasan" /> </p>
 
