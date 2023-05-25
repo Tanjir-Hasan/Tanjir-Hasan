@@ -4,13 +4,8 @@
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Tanjir</h1>  
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjir-hasan" alt="tanjir-hasan" /></p>
 <br>
-
-
-
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanjir-hasan" alt="tanjir-hasan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
