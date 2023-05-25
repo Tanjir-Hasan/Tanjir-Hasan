@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tanjir Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+</div>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Tanjir</h1>  
+<h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
+<br>
+
+<p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjir-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="tanjir-hasan" /> </p>
 
