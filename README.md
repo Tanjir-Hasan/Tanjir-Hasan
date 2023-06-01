@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanjir-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="tanjir-hasan" /> </p>
 
-<h1 align="center">Hi <img src = "https://i.ibb.co/vj9yvrT/hi.gif" width="50px" height="50px">, I'm Tanjir</h1>  
+<h1 align="center">Hi <img src="https://i.ibb.co/vj9yvrT/hi.gif" alt="hi" border="0">, I'm Tanjir</h1>  
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjir-hasan" alt="tanjir-hasan" /></p>
 <br>
