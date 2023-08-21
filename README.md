@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanjir-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="tanjir-hasan" /> </p>
 
-# 💫 About Me:
+# About Me:
 
 <h1 align="center">Hi <img src="https://i.ibb.co/vj9yvrT/hi.gif" alt="hi" border="0" width="50px" height="50px">, I'm Tanjir</h1>  
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>  
