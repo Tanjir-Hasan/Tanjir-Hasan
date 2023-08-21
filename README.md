@@ -7,7 +7,7 @@
 <h1 align="center">Hi <img src="https://i.ibb.co/vj9yvrT/hi.gif" alt="hi" border="0" width="50px" height="50px">, I'm Tanjir</h1>  
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3> 
 
-## Portfolio <img src="https://i.ibb.co/wp93Lbs/link.png" width="50px" height="50px" />
+## Portfolio <img src="https://i.ibb.co/wp93Lbs/link.png" width="25px" height="25px" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tanjirhasan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanjir.hasan.58) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanjir-hasan-74208a260) 
